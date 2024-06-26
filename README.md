@@ -12,8 +12,9 @@
     <h3>Session 5 - Control of DC Motor - control position with P or Deadbeat</h3>
     <p>In our fifth session, we focused on advanced motor control techniques, specifically targeting the position control of a DC motor. Utilizing an STM32 microcontroller, we explored both Proportional (P) and Deadbeat control strategies. The session involved implementing a control algorithm to precisely manage the motor's position, adjusting it to meet predefined criteria. The algorithm calculated the necessary adjustments to the motor's direction and PWM signal by assessing deviations from our target position.</p>
 ## Pictures
- ### Image of device
- ![photo_2024-06-26_19-48-30](https://github.com/M-Mashreghi/Digital-Control-Lab-G4/assets/78053151/8105c96e-7f32-4017-b31d-b2dd9a7d38f0)
+    
+### Image of device
+![photo_2024-06-26_19-48-30](https://github.com/M-Mashreghi/Digital-Control-Lab-G4/assets/78053151/8105c96e-7f32-4017-b31d-b2dd9a7d38f0)
     
 ### wiring
 ![photo_2024-06-26_20-08-27](https://github.com/M-Mashreghi/Digital-Control-Lab-G4/assets/78053151/8f1d4d38-677e-4618-9672-1f530f2bfed6)
