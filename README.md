@@ -43,3 +43,9 @@
          <li>Mohammad Mashreghi</li>
     </ul>
 </div>
+
+### Pictures
+![20240612_170534](https://github.com/M-Mashreghi/Digital-Control-Lab-G4/assets/78053151/c984fdfd-d59d-4353-84cd-17e5c3fdb80b)
+![IMG_20240612_173600](https://github.com/M-Mashreghi/Digital-Control-Lab-G4/assets/78053151/15cfb6b1-dc42-4ee6-9596-ef4bb2ab41e2)
+
+
