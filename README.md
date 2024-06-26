@@ -11,6 +11,8 @@
     <p>In our fifth session, we focused on precision speed control of a DC motor using digital techniques. Utilizing an STM32 microcontroller, we developed and implemented a Proportional-Integral (PI) control algorithm to maintain the motor's speed at a setpoint of 700 RPM. The control output was determined based on the difference between the set target speed and the actual motor speed. Adjustments were made to the motor's direction and PWM signal to align with the desired speed.</p>
     <h3>Session 5 - Control of DC Motor - control position with P or Deadbeat</h3>
     <p>In our fifth session, we focused on advanced motor control techniques, specifically targeting the position control of a DC motor. Utilizing an STM32 microcontroller, we explored both Proportional (P) and Deadbeat control strategies. The session involved implementing a control algorithm to precisely manage the motor's position, adjusting it to meet predefined criteria. The algorithm calculated the necessary adjustments to the motor's direction and PWM signal by assessing deviations from our target position.</p>
+
+    
 ## Pictures
     
 ### Image of device
@@ -21,7 +23,8 @@
 ![photo_2024-06-26_20-08-37](https://github.com/M-Mashreghi/Digital-Control-Lab-G4/assets/78053151/5c7bae53-8ead-430b-bc9c-2836edef0186)
     
 ### PI controller
-    ![PID](https://github.com/M-Mashreghi/Digital-Control-Lab-G4/assets/78053151/628c5f2b-d709-4cf7-b830-d2991c910b70)
+![PID](https://github.com/M-Mashreghi/Digital-Control-Lab-G4/assets/78053151/628c5f2b-d709-4cf7-b830-d2991c910b70)
+
 ### Multi-stage- controller
 ![multi-stage (1)](https://github.com/M-Mashreghi/Digital-Control-Lab-G4/assets/78053151/c4dd42cd-f2d5-4128-828a-dbd70989b634)
 ![multi-stage (8)](https://github.com/M-Mashreghi/Digital-Control-Lab-G4/assets/78053151/f70c8646-20d0-4d39-81e4-c7de546f64a0)
