@@ -5,6 +5,7 @@
     <p>This repository contains the source code and documentation for a lab project on digital control. The project
         involves an STM32 microcontroller and a DC motor.</p>
     <h2>Sessions</h2>
+     <h3>Session 2 - Identification</h3>
   <p>focused on controlling the speed and direction of a DC motor using pulse-width modulation (PWM) and
         quadrature encoders. We implemented techniques to measure the speed and position of the motor. and  we utilized the step response of the motor to determine the motor's parameters (k and tau) using a
         method called "system identification.</p>
