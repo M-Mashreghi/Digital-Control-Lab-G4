@@ -1,0 +1,13 @@
+main.c:116:5:main	3
+main.c:230:6:SystemClock_Config	3
+main.c:277:13:MX_TIM6_Init	3
+main.c:315:13:MX_TIM7_Init	3
+main.c:353:13:MX_TIM11_Init	4
+main.c:399:13:MX_GPIO_Init	1
+main.c:463:6:HAL_GPIO_EXTI_Callback	8
+main.c:495:6:HAL_TIM_PeriodElapsedCallback	5
+main.c:591:6:setDir	3
+main.c:600:6:setDuty	1
+main.c:604:6:setTs	1
+main.c:608:6:Vout2PWM	5
+main.c:634:6:Error_Handler	1
